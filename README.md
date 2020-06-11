@@ -1,2 +1,3 @@
-# calibration-kuka-iiwa
-Design of Calibration Experiments for the 7 DOF serial manipulator KUKA iiwa 14 R820
+# Design of Calibration Experiments for the 7 dof serial manipulator KUKA iiwa 14 R820
+
+The present project deals with the calibration experiment of spacial industrial manipulators using optimal selection of measurements pose,, the proposed approach aims to the efficiency improvement of identification procedure for serial manipulators which reduces noise impact on the parameters identification precision, it is usually used for planar manipulators, our work is mainly to extend the approach for a more complicated manipulator in 3D space using a wise decomposition of the spacial manipulator into a set of serial sub-chains, the optimal pose configuration is then used in the calibration procedure using the complete and irreducible model for the 7 dof serial manipulator. The methodology is illustrated with the anthropomorphic industrial robot KUKA iiwa14 R820
